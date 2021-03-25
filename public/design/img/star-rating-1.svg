@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>star-rating-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Public-profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-129.000000, -528.000000)" fill="#5B95CB" id="Group-2">
+            <g transform="translate(47.000000, 237.000000)">
+                <g id="Group-6" transform="translate(0.000000, 215.000000)">
+                    <g id="Group-7" transform="translate(49.000000, 42.000000)">
+                        <g id="Star" transform="translate(2.000000, 35.000000)">
+                            <polygon id="star-rating-1" points="38.527292 10.5721878 34.3038525 12.5069544 35.1104577 8.11448674 31.6936233 4.55366676 36.4155723 4.13784292 38.527292 -0.36173532 40.6390118 4.13784292 45.3609607 4.55366676 41.9441264 8.11448674 42.7507316 12.5069544"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

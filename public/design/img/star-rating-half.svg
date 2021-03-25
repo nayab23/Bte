@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>star-rating-half</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="6.52729204 10.5721878 2.30385251 12.5069544 3.11045768 8.11448674 -0.306376672 4.55366676 4.41557227 4.13784292 6.52729204 -0.36173532 8.6390118 4.13784292 13.3609607 4.55366676 9.94412639 8.11448674 10.7507316 12.5069544"></polygon>
+    </defs>
+    <g id="Public-profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-160.000000, -528.000000)" id="Group-2">
+            <g transform="translate(47.000000, 237.000000)">
+                <g id="Group-6" transform="translate(0.000000, 215.000000)">
+                    <g id="Group-7" transform="translate(49.000000, 42.000000)">
+                        <g id="Star" transform="translate(2.000000, 35.000000)">
+                            <g id="star-rating-half" transform="translate(63.000000, 0.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#5B95CB" xlink:href="#path-1"></use>
+                                <rect id="Rectangle" fill="#CECECE" mask="url(#mask-2)" x="7" y="-5" width="14" height="21"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

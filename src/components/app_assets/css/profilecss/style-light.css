@@ -1,0 +1,151 @@
+.section-title {
+    color: #666666;
+}
+
+/*----------------------------------------*/
+/*  2.  Mainmenu
+/*----------------------------------------*/
+.mainmenu ul li a {
+    color: #555555;
+}
+/*----------------------------------------*/
+/*  3.  Banner Area
+/*----------------------------------------*/
+.banner-area {
+    background-color: #FCFCFF;
+    background-image: unset;
+}
+
+.banner-text {
+    color:#666666
+}
+.banner-text h4 {
+    color: #555555;
+}
+.banner-text h2 {
+    color: #3D3D3D;
+}
+.banner-text h2 b {
+    font-weight: 700;
+}
+.social-icons h5 {
+    color:#555555;
+}
+.b-shape-3 {
+    display: none;
+}
+/*----------------------------------------*/
+/*  5.  About Area
+/*----------------------------------------*/
+.video-icon::after {
+    border: 5px solid #3D3D3D;
+    
+  }
+.video-icon::before {
+    border: 5px solid #3D3D3D;
+}
+.video-icon:hover::after {
+    border: 5px solid #372E75;
+    
+  }
+.video-icon:hover::before {
+    border: 5px solid #372E75;
+}
+/*----------------------------------------*/
+/*  6.  Skills & experiences
+/*----------------------------------------*/
+.skills-experiences-area.bg-dark-light {
+    background-color: #FCFCFF;
+}
+.education-single, .skills-list {
+    background-color: #FCFCFF;
+    border-color:#FCFCFF;
+    box-shadow: 0 3px 20px rgba(0,0,0,.06);
+}
+.education-single h4 {
+    font-weight: 700;
+    color:#3D3D3D;
+}
+.education-single small {
+    color:#666666;
+}
+.skills-list ul li {
+    color:#3D3D3D;
+    font-weight: 700;
+}
+/*----------------------------------------*/
+/*  7.   services
+/*----------------------------------------*/
+.services-area.bg-darks {
+    background-color: #FCFCFF;
+}
+.service-single {
+    background-color: #FCFCFF;
+    border-color:#e5e5e5;
+    color:#666666;
+}
+.service-single:hover {
+    background-color: rgba(55, 46, 117,0.1);
+    border-color:#372E75;
+    color:#372E75;
+}
+.service-single .service-icon {
+    color:#FCFCFF;
+}
+.service-single h4 {
+    color:#3D3D3D;
+    font-weight: 700;
+}
+.service-single:hover h4 {
+    /* color:#FCFCFF; */
+}
+/*----------------------------------------*/
+/*  8.   portfolios
+/*----------------------------------------*/
+.portfolio-area.bg-dark-light {
+    background-color: #FCFCFF;
+}
+.portfolio-text h3 {
+    font-weight:700;
+}
+.portfolio-text h3 a {
+    color:#3D3D3D;
+}
+.portfolio-text span {
+    color:#555555;
+}
+/*----------------------------------------*/
+/*  9.   testimonial
+/*----------------------------------------*/
+.testimonial-area {
+    position: unset;
+    top:unset;
+    left: unset;
+    right:0;
+    position: relative;
+}
+.testimonial-text h2 {
+    font-weight: 700;
+}
+.testimonial-author-name h4 {
+    font-weight: 700;
+}
+/*----------------------------------------*/
+/*  10.   blog
+/*----------------------------------------*/
+.blog-area {
+    padding-top: 115px;
+}
+/*----------------------------------------*/
+/*  11.   contact
+/*----------------------------------------*/
+.contact-form input[type="text"], .contact-form input[type="email"], .contact-form textarea {
+    border: 1px solid #e5e5e5;
+    background-color: #FCFCFF;
+}
+.contact-area.bg-dark-light {
+    background-color: #FCFCFF;
+}
+.contact-form input[type="text"], .contact-form input[type="email"], .contact-form textarea {
+    color: #666666;;
+}

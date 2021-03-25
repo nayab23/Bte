@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+    <g data-name="Group 306" transform="translate(-665 -791)">
+        <rect data-name="Rectangle 311" width="17" height="17" rx="2" transform="translate(665 791)" fill="#372E75"/>
+        <g data-name="picture (2)">
+            <g data-name="Group 304" fill="#fff">
+                <path data-name="Path 176" d="M665 806.208a1.8 1.8 0 0 0 1.792 1.792h13.416a1.8 1.8 0 0 0 1.792-1.792v-13.416a1.8 1.8 0 0 0-1.792-1.792h-13.416a1.8 1.8 0 0 0-1.792 1.792zm15.208.941h-13.416a.944.944 0 0 1-.941-.941v-2.24l3.224-3.224 2.754 2.756a.424.424 0 0 0 .6 0l4.971-4.976 3.745 3.745v3.939a.944.944 0 0 1-.937.941zm-13.416-15.298h13.416a.944.944 0 0 1 .941.941v8.271l-3.449-3.442a.424.424 0 0 0-.6 0l-4.972 4.979-2.755-2.76a.424.424 0 0 0-.6 0l-2.922 2.922v-9.97a.944.944 0 0 1 .941-.941z"/>
+                <path data-name="Path 177" d="M670.219 797.5a2.065 2.065 0 1 0-2.065-2.065 2.067 2.067 0 0 0 2.065 2.065zm0-3.318a1.253 1.253 0 1 1-1.253 1.253 1.254 1.254 0 0 1 1.253-1.253z"/>
+            </g>
+        </g>
+        <g data-name="Group 305">
+            <g data-name="Rectangle 312" transform="translate(665 791)" fill="none" stroke="#372E75">
+                <rect width="17" height="17" rx="2" stroke="none"/>
+                <rect x=".5" y=".5" width="16" height="16" rx="1.5"/>
+            </g>
+        </g>
+    </g>
+</svg>

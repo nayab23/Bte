@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="26px" viewBox="0 0 19 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Pencil</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Account" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profile" transform="translate(-909.000000, -697.000000)" stroke="#4492DA">
+            <g id="Group-2" transform="translate(287.000000, 162.000000)">
+                <g id="Rectangle-2" transform="translate(0.000000, 500.000000)">
+                    <g id="Pencil" transform="translate(630.500000, 49.000000) rotate(-330.000000) translate(-630.500000, -49.000000) translate(626.000000, 34.000000)">
+                        <path d="M1.73117061,1.38661518 C1.45502824,1.38661518 1.23117061,1.6104728 1.23117061,1.88661518 L1.23117061,23.1400239 C1.23117061,23.6365704 1.37903591,24.1218695 1.6559161,24.5340536 L3.02122152,26.5665471 C3.14838743,26.7558556 3.31115719,26.9186254 3.50046568,27.0457913 C4.3067733,27.5874197 5.39949133,27.3728547 5.94111971,26.5665471 L7.30642513,24.5340536 C7.58330531,24.1218695 7.73117061,23.6365704 7.73117061,23.1400239 L7.73117061,1.88661518 C7.73117061,1.6104728 7.50731299,1.38661518 7.23117061,1.38661518 L1.73117061,1.38661518 Z" id="Rectangle"></path>
+                        <path d="M1.39503175,6.57892465 L7.36094085,6.57892465" id="Line" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="mc_symbol" width="44.975" height="29.746" viewBox="0 0 44.975 29.746">
+    <defs>
+        <style>
+            .cls-5{fill:#372e75}
+        </style>
+    </defs>
+    <g id="Group_314" data-name="Group 314" style="opacity:0">
+        <path id="Rectangle_329" d="M0 0h44.975v29.746H0z" data-name="Rectangle 329" style="fill:#fff"/>
+    </g>
+    <path id="Rectangle_330" d="M0 0h11.864v19.378H0z" data-name="Rectangle 330" transform="translate(16.557 5.182)" style="fill:#ff5f00"/>
+    <path id="Path_178" d="M22.676 19.776a12.3 12.3 0 0 1 4.707-9.687 12.323 12.323 0 1 0 0 19.378 12.3 12.3 0 0 1-4.707-9.691z" data-name="Path 178" transform="translate(-4.897 -4.903)" style="fill:#eb001b"/>
+    <path id="Path_179" d="M120.046 64.839v-.4h.171v-.079h-.407v.082h.161v.4zm.791 0v-.479h-.123l-.144.342-.144-.342h-.126v.479h.089v-.363l.134.312h.092l.133-.312v.363z" class="cls-5" data-name="Path 179" transform="translate(-78.799 -42.33)"/>
+    <path id="Path_180" d="M85.629 19.767a12.323 12.323 0 0 1-19.939 9.687 12.323 12.323 0 0 0 0-19.378 12.323 12.323 0 0 1 19.939 9.687z" class="cls-5" data-name="Path 180" transform="translate(-43.204 -4.894)"/>
+</svg>

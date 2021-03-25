@@ -1,0 +1,330 @@
+/* 
+//////////////////////////////
+MESSAGE COMPONENT STYLE
+//////////////////////////////
+*/
+.message-modal-body{
+    height: 50vh;
+}
+.message-stat-card {
+    padding:5vh;
+    background-color: #FCFCFF;
+}
+.message-stat-title{
+    font-weight: normal;
+    font-size: 22px;
+    color:#3D3D3D;
+}
+
+.message-stat-sub-title{
+    font-size: 16px;
+    color:#6C757D;
+}
+.message-status-text{
+    font-size: 22px;
+}
+.message-status-icon
+{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.message-search-bar{
+background: #F6F6F6;
+border: 0.505026px solid #372E75;
+box-sizing: border-box;
+border-radius: 4.04021px;
+padding:1vh 2vh;
+}
+.message-search-input{
+    background: #F6F6F6;
+    border:none;
+    width:100%;
+}
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-vertical-center{
+    text-align: center;
+}
+.border-right{
+    /* padding:2vh; */
+    background-color: #FCFCFF;
+    border-right: 1.01005px solid #EAEAEA;    
+}
+.border-bottom{
+    /* padding:2vh; */
+    background-color: #FCFCFF;
+    border-bottom: 1.01005px solid #EAEAEA;
+    padding:3vh;
+    padding-right: 2vh;
+    padding-left: 2vh;
+}
+
+.message-box-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.message-box-title{
+    /* font-style: normal;
+font-weight: normal;
+font-size: 16.1608px;
+line-height: 19px;
+display: flex;
+align-items: flex-end;
+color: #3D3D3D; */
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    font-stretch: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+}
+.message-box-header-icon{
+    margin-right: 10px;
+    width: 20px;
+}
+.message-left-title{
+    /* font-style: normal;
+font-weight: normal;
+font-size: 16.1608px;
+line-height: 19px;
+display: flex;
+align-items: flex-end; */
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    font-stretch: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+}
+.message-left-date{
+    font-style: normal;
+font-weight: normal;
+font-size: 14.1407px;
+line-height: 17px;
+display: flex;
+align-items: flex-end;
+}
+.message-left-preview{
+    /* font-style: normal;
+font-weight: normal;
+font-size: 14.1407px;
+line-height: 17px;
+display: flex;
+align-items: flex-end;
+color: #3D3D3D; */
+    text-overflow: ellipsis;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 14px;
+    color: #3D3D3D;
+}
+.message-box-left-row{
+    padding:2vh 5vh;
+    cursor: pointer;
+}
+
+.message-box-left-row-selected{
+    padding-left:4.6vh;
+    border-left:3px solid #372E75;
+}
+.chat-rows{
+    display: flex;
+    justify-content: center;    
+}
+.message-avatar{
+    background-color: #ededed;
+    width: 50.54px  !important;
+    height: 50.54px !important;
+    border-radius: 40px;
+    margin-top: 10px;
+}
+.type-message-box{
+    background-color: #FCFCFF;
+    width:100%;
+    border-top: 1.01005px solid #EAEAEA;
+    /* padding:10vh 3vh; */
+    padding:1vh 3vh;
+}
+.type-message-input{
+    border: none;
+    width:'100%';
+    flex:3;
+}
+.message-send-button{
+    padding:10px 20px;
+}
+.no-more-messages{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: #3D3D3D;
+    margin:10px;
+}
+.display-none{
+    display: block;
+}
+.display-block{
+    display: block;
+}
+.right-pane{
+    flex:3;
+}
+.left-pane{
+    flex:1;
+}
+.back-button{
+    display: none;
+}
+
+.message-box-threads{
+    overflow-y: scroll;
+    background-color:#FCFCFF;
+    height: 45vh;
+    width: 100%;
+}
+.null-message-thread{
+    background-color:#FCFCFF;
+    height: 75vh;
+    width: 100%;
+}
+.left-pane-messages{
+    overflow-y:scroll;
+    overflow-x: hidden;
+    height:54vh;
+    width:100%;
+    margin:0px;
+}
+.no-message-left-pane-font{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: #3D3D3D;
+}
+.no-message-left-pane-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+    width:100%;
+    height: 50vh;
+}
+.no-message-right-pane-font{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: #3D3D3D;
+}
+.text-thread{
+    font-style: normal;
+font-weight: normal;
+font-size: 15.1508px;
+}
+@media only screen and (max-width:768px)
+{
+    .message-box-header-icon{
+        width: 13.54px;
+
+    }
+    .message-box-title{
+        font-size: 12px;
+    }
+    .type-message-box{
+        padding: 5vh 3vh;
+    }
+    .text-thread{
+    font-size: 13px;
+    }
+    .message-thread-main{
+         display: none;
+         margin: 0px;
+    }
+    .display-none{
+        display: none;
+    }
+    .display-block{
+        display: block;
+    }
+    .left-pane{
+        flex:1
+    }
+    .right-pane{
+        flex:0;
+    }
+    .modal-body-content{
+        padding:0;
+    }
+    .back-button{
+        display: block;
+    }
+    .message-left-title{
+        font-size: 12px;
+    }
+    .message-left-date{
+        font-size: 12px;
+    }
+    .message-left-preview{
+        font-size: 10px;
+    }
+    .left-pane-messages{
+        height: 60vh;
+    }
+    .message-box-threads{
+        height:54vh;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .message-thread-main{
+        display: block;
+   }
+}
+@media only screen and (max-width: 992px) {
+    .post-card {
+        margin: 0px auto;
+        width: 100%;
+    }
+   .message-left-title{
+    font-size: 12px;
+    }
+    .stat-card {
+        min-width: 47%;
+        margin: 0px;
+        margin: 10px 0px;
+        min-width: 12rem;
+        padding: 20px 2px;
+        height: 10rem;
+    }
+    .message-left-date{
+        font-size: 12px;
+    }
+    .message-left-preview{
+        font-size: 10px;
+    }
+}
+
+.message-box-threads::-webkit-scrollbar {
+    width: 4px;
+    background-color: #C4C4C4;
+}
+    
+.message-box-threads::-webkit-scrollbar-thumb {
+    background: #6C757D; 
+}
+
+.left-pane-messages::-webkit-scrollbar {
+    width: 4px;
+    background-color: #C4C4C4;
+}
+    
+.left-pane-messages::-webkit-scrollbar-thumb {
+    background: #6C757D; 
+}
